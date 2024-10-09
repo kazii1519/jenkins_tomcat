@@ -2,8 +2,8 @@ pipeline {
     agent any
     
     tools {
-        jdk 'C:\Program Files\OpenLogic\jdk-17.0.10.7-hotspot\bin'
-        maven 'C:\Program Files\OpenLogic\apache-maven-3.9.9\bin'
+        jdk 'C:/Program Files/OpenLogic/jdk-17.0.10.7-hotspot/bin'
+        maven 'C:/Program Files/OpenLogic/apache-maven-3.9.9/bin'
     }
     
     environment {
